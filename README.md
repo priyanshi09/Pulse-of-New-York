@@ -1,6 +1,6 @@
 ﻿# Pulse of New York 
 ## Big Data Project -: Professor: Huy T. Vo
-## Sentiment-Analysis
+### Sentiment-Analysis
 
 #### Team:  Shalmali Kulkarni, Enrique Sanz Gonzalez , Priyanshi Singh, Sunny Kulkarni,  Alexey Kalinin        
 
